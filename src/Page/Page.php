@@ -8,7 +8,6 @@ use Illuminate\Contracts\Validation\Factory;
 use Illuminate\Http\Request;
 use Illuminate\Support\Str;
 use Illuminate\Validation\Validator;
-use Illuminate\Support\Str;
 use Themosis\Forms\Contracts\FieldTypeInterface;
 use Themosis\Hook\IHook;
 use Themosis\Page\Contracts\PageInterface;
