@@ -1,17 +1,22 @@
 {
-  "name": "themosis/framework",
-  "description": "The Themosis framework.",
+  "name": "besrabasant/themosis-framework",
+  "description": "The Themosis framework (Modified).",
   "keywords": ["themosis", "framework", "wordpress"],
   "license": "GPL-2.0-or-later",
   "support": {
     "issues": "https://github.com/themosis/framework/issues",
-    "source": "https://github.com/themosis/framework"
+    "source": "https://github.com/besrabasant/themosis-framework"
   },
   "authors": [
     {
       "name": "Julien Lambé",
       "email": "julien@themosis.com",
       "homepage": "https://www.themosis.com/"
+    },
+    {
+      "name": "Basant Besra",
+      "email": "besrabasant@gmail.com",
+      "homepage": "https://besrabasant.github.io/"
     }
   ],
   "autoload": {
